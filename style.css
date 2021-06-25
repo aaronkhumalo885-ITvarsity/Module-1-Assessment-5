@@ -1,24 +1,23 @@
 .gallery img{
         width: 100%;
  }
-
- h2{
+h2{
          font-family: impact,fantasy;
-         text-align: center;
          font-size: 30px;
          color: cornflowerblue;
          font-style: italic;
  }
  
- h4{
+h4{
         font-family: impact,fantasy;
         font-size: 20px;
         font-style: italic;
-        color: cornflowerblue;
+        color: cornflowerblue;;
        
 }
 p{
         font-family: Helvetica, sans-serif;
+        text-align: center;
 }
 
  #menu{
@@ -26,6 +25,7 @@ p{
         height:40px;
         background-color: cornflowerblue;
         padding-top: 12px;
+        text-align: right;
   }
   
   #menu a{
@@ -41,4 +41,9 @@ p{
   
   #menu a:hover{
          color: #5077bd;
+  }
+  .table{
+          width: 70%;
+          text-align: center;
+          
   }
